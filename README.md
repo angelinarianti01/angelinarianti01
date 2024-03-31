@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**angelinarianti01/angelinarianti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
 My name is Angelina, I am currently interested in:
 - 💼 Software development (frontend & backend)
