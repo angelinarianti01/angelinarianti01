@@ -72,6 +72,6 @@ Tools:
 ## Contact📧
 
 - 📩 <a href="mailto:angelinarianti23@gmail.com">angelinarianti23@gmail.com</a>
-- 📞 <a href="tel:0402467181">0402467181</a>
+- 📞 <a href="tel:+61402467181">0402467181</a>
 - 🔗 <a href="www.linkedin.com/in/angelina-rianti-235688228">www.linkedin.com/in/angelina-rianti-235688228</a>
 
