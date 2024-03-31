@@ -14,8 +14,11 @@ I am a Bachelor of Computer Science majoring in Software Development graduate wi
 ### Languages and Tools🛠️
 
 Frontend:
+<div>
 <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
 <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
 <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">&nbsp;
+</div>
 
 Backend:
