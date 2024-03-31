@@ -66,5 +66,9 @@ Tools:
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg">&nbsp;
 </div>
 
-| <a href="https://github.com/angelinarianti01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=angelinarianti01&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Angelina's github stats" /></a> | <a href="https://github.com/angelinarianti01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinarianti01&theme=github_dark&layout=compact&hide_border=true" /></a> |
+###Contact📧
+
+- 📩 <a href="mailto:angelinarianti23@gmail.com">angelinarianti23@gmail.com</a>
+- 📞 <a href="tel:0402467181">0402467181</a>
+- 🔗 <a href="www.linkedin.com/in/angelina-rianti-235688228">www.linkedin.com/in/angelina-rianti-235688228</a>
 
