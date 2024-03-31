@@ -66,7 +66,7 @@ Tools:
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg">&nbsp;
 </div>
 
-###Contact📧
+### Contact📧
 
 - 📩 <a href="mailto:angelinarianti23@gmail.com">angelinarianti23@gmail.com</a>
 - 📞 <a href="tel:0402467181">0402467181</a>
