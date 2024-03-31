@@ -25,6 +25,8 @@ Frontend:
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">&nbsp;
 </div>
 
+</br>
+
 Backend:
 <div>
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">&nbsp;
@@ -42,6 +44,8 @@ Backend:
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">&nbsp;
 </div>
 
+</br>
+
 Deployment:
 <div>
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">&nbsp;
@@ -52,6 +56,8 @@ Deployment:
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">&nbsp;
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">&nbsp;
 </div>
+
+</br>
 
 Tools:
 <div>
