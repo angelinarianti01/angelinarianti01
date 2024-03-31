@@ -11,7 +11,7 @@ My name is Angelina, I am currently interested in:
 
 I am a Bachelor of Computer Science majoring in Software Development graduate with over 2 years experience in the industry. I am actively learning and studying current technologies through online courses. Hardoworking, enthusiastic, and attentive is how I would describe myself!
 
-### Languages and Tools🛠️
+## Languages and Tools🛠️
 
 Frontend:
 <div>
@@ -66,7 +66,7 @@ Tools:
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg">&nbsp;
 </div>
 
-### Contact📧
+## Contact📧
 
 - 📩 <a href="mailto:angelinarianti23@gmail.com">angelinarianti23@gmail.com</a>
 - 📞 <a href="tel:0402467181">0402467181</a>
